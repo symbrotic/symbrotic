@@ -1,1 +1,1 @@
-   ![lego-ninjago-ninjago](https://github.com/user-attachments/assets/fcef60d7-edb3-461e-9a8b-22a1346ccf77)
+<p align="center"> <img width="666" height="375" alt="tumblr_6d2141ba70140b24b3f54f225d36589b_a75a1057_1280" src="https://github.com/user-attachments/assets/491f7bf7-66a7-4604-bb04-fd44610d70a6" /> </p>
