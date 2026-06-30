@@ -13,7 +13,7 @@
   <a href="https://symbroticinfo.straw.page/">comm info</a>
 </span>
 
-<img width="2000" height="1600" alt="jaya (1)" src="https://github.com/user-attachments/assets/a0c5cd4a-30a7-46d1-983e-ebfbb7e575de" width="120"/>
+<img width="800" height="450" alt="jaya (1)" src="https://github.com/user-attachments/assets/a0c5cd4a-30a7-46d1-983e-ebfbb7e575de" width="120"/>
 <br>
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=cynoisms.visitor-badge&left_color=red&right_color=blue&left_text=ElementalMasters)
