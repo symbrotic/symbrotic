@@ -1,16 +1,13 @@
-<span style="font-size: 34px;"><em>jay / steven</em></span> ✧ 20 ✧
+<span style="font-size: 34px;"><em>jay / steven</em></span> ✧ 20
 
 <span style="font-size: 18px;">
-<sub> <a href="https://symbrotic.straw.page/">strawpage</a>  
-&nbsp;✧&nbsp;  <a href="https://symbrotic.atabook.org/">ata</a> &nbsp;✧&nbsp;    <a href="https://symbroticinfo.straw.page/">comm info</a>
+
+  c+h ✧ he/any ✧ 
+<span style="font-size: 18px;">
+
+<sub> <a href="https://symbrotic.straw.page/">strawpage</a>  &nbsp;✧&nbsp;  <a href="https://symbrotic.atabook.org/">ata</a> &nbsp;✧&nbsp;    <a href="https://symbroticinfo.straw.page/">comm info</a>
 </span>
 <br> 
-
-<span style="font-size: 18px;">
-<br>
-
-  c+h ✧ he/any ✧ ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=cynoisms.visitor-badge&left_color=red&right_color=blue&left_text=ElementalMasters)
-<br>
 
 
 <div align="center">
@@ -21,3 +18,6 @@
 
 
 ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦
+<div align="center">
+
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=cynoisms.visitor-badge&left_color=red&right_color=blue&left_text=ElementalMasters)
