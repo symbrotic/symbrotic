@@ -5,7 +5,7 @@
   c+h ✧ he/any ✧ 
 <span style="font-size: 18px;">
 
-<sub> <a href="https://symbrotic.straw.page/">strawpage</a>  &nbsp;✧&nbsp;  <a href="https://symbrotic.atabook.org/">ata</a> &nbsp;✧&nbsp;    <a href="https://symbroticinfo.straw.page/">comm info</a>
+<sub> <a href="https://symbrotic.straw.page/">strawpage</a>  &nbsp;✧&nbsp;  <a href="https://ifaron.atabook.org/">ata</a> &nbsp;✧&nbsp;    <a href="https://symbroticinfo.straw.page/">comm info</a>
 </span>
 <br> 
 
