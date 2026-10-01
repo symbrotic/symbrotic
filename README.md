@@ -20,4 +20,4 @@
 ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦
 <div align="center">
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=cynoisms.visitor-badge&left_color=red&right_color=blue&left_text=ElementalMasters)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=cynoisms.visitor-badge&left_color=red&right_color=blue&left_text=haters)
