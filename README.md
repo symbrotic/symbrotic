@@ -1,4 +1,15 @@
-<span style="font-size: 34px;"><em>jay / steven</em></span> ✧ 20
+
+<img alt="viscous_sm" src="https://github.com/user-attachments/assets/586dec13-a5d1-44c7-89ff-3495ac3fd5db" align="left" width="300" style="margin-left: 20px;">
+
+
+<br><br>
+<div>
+  <font color="#BDE1FF" size="7" face="Georgia, serif">jay / steven</em></span> ✧ 20 <b></b></font>
+  <hr align="left" width="300" style="height: 1px; border: none; background-color: #30363d; margin: 5px 0 10px 0;">
+  
+  <p><sub><small>⚠︎ no dni 
+
+
 
 <span style="font-size: 18px;">
 
@@ -11,13 +22,7 @@
 
 
 <div align="center">
-────────────────── ･ ｡ﾟ☆: *.☽ .* :⁺⁺. ───────────────────
 
-<img width="800" height="450" alt="jaya (1)" src="https://github.com/user-attachments/assets/a0c5cd4a-30a7-46d1-983e-ebfbb7e575de" width="120"/>
-<br>
-
-
-✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦
-<div align="center">
+<div align="left">
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=cynoisms.visitor-badge&left_color=red&right_color=blue&left_text=haters)
