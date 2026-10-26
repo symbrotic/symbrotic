@@ -7,7 +7,7 @@
   <font color="#BDE1FF" size="7" face="Georgia, serif">jay / steven</em></span> ✧ 20 <b></b></font>
   <hr align="left" width="300" style="height: 1px; border: none; background-color: #30363d; margin: 5px 0 10px 0;">
   
-  <p><sub><small>⚠︎ no dni 
+  <p><sub><small>⚠︎ no dni. i have disorders that impact my interactions byi
 
 
 
