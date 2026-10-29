@@ -3,19 +3,15 @@
 
 
 <br><br>
-<div>
+
   <font color="#BDE1FF" size="7" face="Georgia, serif">jay / steven</em></span> ✧ 20 <b></b></font>
-  <hr align="left" width="300" style="height: 1px; border: none; background-color: #30363d; margin: 5px 0 10px 0;">
-  
-  <p><sub><small>⚠︎ no dni. i have disorders that impact my interactions byi
-
-
 
 <span style="font-size: 18px;">
 
   c+h ✧ he/any ✧ 
 <span style="font-size: 18px;">
-
+  <p><sub><small>⚠︎ no dni. i have disorders that impact my interactions byi
+    
 <sub> <a href="https://symbrotic.straw.page/">strawpage</a>  &nbsp;✧&nbsp;  <a href="https://ifaron.atabook.org/">ata</a> &nbsp;✧&nbsp;    <a href="https://symbroticinfo.straw.page/">comm info</a>
 </span>
 <br> 
